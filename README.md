@@ -1,7 +1,7 @@
-Java-TicTacToe
+Kotlin-TicTacToe
 ==============
 
-A TicTacToe game written in Java
+A TicTacToe game written in Kotlin
 
 1A) Write a tic-tac-toe program where a human user can play against an AI bot,and where two AI
 bots can play against each other. Write input and output code so that it's intuitive for the user.
